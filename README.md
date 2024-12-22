@@ -1,0 +1,2 @@
+# Gyroscope-Modeling
+This project implements the modeling of a control system for a 1-degree-of-freedom gyroscope, using first-order and second-order models and performing PID and H-infinite control to observe its performance.
